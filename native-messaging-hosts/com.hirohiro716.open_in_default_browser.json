@@ -1,0 +1,8 @@
+{
+  "name": "com.hirohiro716.open_in_default_browser",
+  "description": "Open URL in Default Browser",
+  "path": "/home/YOUR_USERNAME/.mozilla/com.hirohiro716.open_in_default_browser.py",
+  "type": "stdio",
+  "allowed_extensions": [ "open-in-default-browser@hirohiro716.com" ]
+}
+
